@@ -1,5 +1,5 @@
 # Pytorch_learning
-Experiments I ran when I joined as research assistant at IIT Delhi
+Experiments I ran when I joined as research assistant at IIT Delhi. Please checkout master branch for code. 
 
 Most of the experiments are on Machine Translation. The idea is to learn about transformers.  
 
